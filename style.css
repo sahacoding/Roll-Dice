@@ -1,0 +1,55 @@
+.main {
+    /* background-color: burlywood; */
+    margin: 100px;
+    /* height: 500px;
+    width: 900px;
+    display: flex;
+    justify-content: center; */
+
+}
+
+.player0 {
+    margin-top: 55px;
+
+    background-color: aqua;
+    height: 300px;
+    width: 250px;
+    padding: 50px;
+    display: inline-block
+}
+
+.player1 {
+    margin-top: 55px;
+
+    background-color: rgb(219, 240, 181);
+    height: 300px;
+    width: 250px;
+    padding: 50px;
+    display: inline-block
+}
+
+.result {
+    display: inline-block
+}
+
+.hidden {
+    display: none;
+}
+
+
+.img {
+    display: inline-block;
+}
+
+
+.src {
+    background-color: rgb(247, 199, 138);
+
+    height: 200px;
+    width: 200px;
+}
+
+.btn {
+    margin: 10px;
+    margin-left: 200px;
+}
